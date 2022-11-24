@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @linfiesto
 - 👀 I’m interested in doing any Frontend development role.
-- 🌱 I’m currently learning whatever my hands can get on the bleeding-edge technologies
+- 🌱 I’m currently learning whatever my hands can get on the bleeding-edge technologies.
 - 📫 You can reach me via email: lesterinfiesto@gmail.com
